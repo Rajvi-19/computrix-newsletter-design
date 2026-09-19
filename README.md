@@ -32,8 +32,9 @@ computrix-e-newsletter/
 ├── README.md
 │
 ├── cover/
-│   ├── computrix-cover.png
-│   └── computrix-cover.pdf
+│   ├── computrix-cover-1.png
+│   └── computrix-cover-2.pdf
+│   └── computrix-cover-3.pdf
 │
 ├── pages/
 │   ├── page-01.png
